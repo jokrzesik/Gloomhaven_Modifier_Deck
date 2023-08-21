@@ -1,1 +1,1 @@
-# Gloomhaven_Modifier_Deck
+# Gloomhaven Modifier Deck
