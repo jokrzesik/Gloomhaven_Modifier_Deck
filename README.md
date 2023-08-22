@@ -1,6 +1,8 @@
 # Gloomhaven Modifier Deck
 Gloomhaven is a cooperative, dungeon-crawl, campaign-based board game designed by Isaac Childres and released in 2017. For those unfamiliar with the game or its style, think of it as a more structured Dungeons & Dragons. The popularity of Gloomhaven led to a few expansions and sequels.  
 
-One of the key mechanics in the Gloomhaven series is attacking.  Once an attack is declared, a character then draws a card from a deck that modifies the attack value.  
+One of the key mechanics in the Gloomhaven series is attacking. When an attack is declared, a character then draws one card from a deck that modifies the attack value.  There are a number of mechanics and rules to keep track of regarding the modifier deck.  The primary rule is that when a card with a shuffle icon is drawn, the discarded cards get shuffled back into the deck.  The rules for drawing cards can differ if the character has an advantage or disadvantage, or if specific cards with 'Rolling' icons are drawn. Some situations in the game can require additional cards to be added before or during the scenario. In addition, each character has its own set of 'perks' that add or subtract unique modifier cards.  
 
-*[Link to Repository](https://github.com/jokrzesik/Gloomhaven_Modifier_Deck)*
+Keeping track of the attack modifier deck can be at times difficult and time consuming when also managing the rest of the game.  Although a number of different apps and websites offer great virtual options, I chose to take a crack at making my own when learning Python.  My GH Modifier Deck allows a user to create a card set for their character, draw cards for attacking, and shuffle the deck when the conditions are met.  The most recent version only features the Geminate class from Gloomhaven's sequel, Frosthaven.  Future updates will add some user friendliness and continue to expand the class offerings.  The current version can be found in the [repository](https://github.com/jokrzesik/Gloomhaven_Modifier_Deck).
+
+*[Back to John's Portfolio](https://jokrzesik.github.io/John_Okrzesik/)*
